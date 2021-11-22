@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import Titolo from './components/titolo.vue'
-import Jumbotron from './components/jumbotron.vue'
+import Titolo from './components/Titolo.vue'
+import Jumbotron from './components/Jumbotron.vue'
 export default {
   name: 'App',
   components: {

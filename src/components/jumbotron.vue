@@ -23,9 +23,9 @@ export default {
     }
     p{
         position: absolute;
-        left: 150px;
+        left: 10%;
         bottom: 50px;
-        font-size: 30px;
+        font-size: 20px;
         color: #F5E028;
     }
 </style>
