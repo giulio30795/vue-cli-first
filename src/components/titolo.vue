@@ -6,7 +6,8 @@
 
 <script>
 export default {
-name: 'title' ,
+name: 'Titolo' ,
+
 }
 </script>
 
